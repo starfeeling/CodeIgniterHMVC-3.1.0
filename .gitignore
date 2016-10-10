@@ -8,10 +8,7 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 
-user_guide/build/*
-user_guide/cilexer/build/*
-user_guide/cilexer/dist/*
-user_guide/cilexer/pycilexer.egg-info/*
+user_guide/*
 /vendor/
 
 # IDE Files
